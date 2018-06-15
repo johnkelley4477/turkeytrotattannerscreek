@@ -1,0 +1,22 @@
+{
+  "name": "turkeytrotattannerscreek",
+  "version": "0.1.0",
+  "description": "The Tanners Creek Turkey Trot race register and clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnkelley4477/turkeytrotattannerscreek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnkelley4477/turkeytrotattannerscreek/issues"
+  },
+  "homepage": "https://github.com/johnkelley4477/turkeytrotattannerscreek#readme",
+  "dependencies": {
+    "firebase-admin": "^5.12.1"
+  }
+}
